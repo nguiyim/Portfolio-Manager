@@ -14,5 +14,3 @@ class security(securityInterface):
     def getName(self) -> str:
         return self.name
 
-
-
