@@ -52,7 +52,9 @@ class position(positionInterface):
         return self.initialPosition
     
     def setPosition(self, inputValue: int) -> None:
-        pass
+        return self.initialPosition = inputValue
     
     def addPosition(self, inputValue: int) -> None:
-        pass
+        initialPosition + inputValue =
+
+        return 
